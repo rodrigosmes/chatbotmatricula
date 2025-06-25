@@ -44,5 +44,5 @@ app = web.Application()
 app.router.add_post("/api/messages", messages)
 
 if __name__ == "__main__":
-    print("Bot rodando em https://matricula.mysql.database.azure.com/api/messages")
+    print("Bot rodando em http://localhost:3978/api/messages")
     web.run_app(app, host="localhost", port=3978)
