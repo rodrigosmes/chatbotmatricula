@@ -1,0 +1,4 @@
+com\projeto_as\chatbot\ChatbotApplication.class
+com\projeto_as\chatbot\repository\MatriculaRepository.class
+com\projeto_as\chatbot\controller\MatriculaController.class
+com\projeto_as\chatbot\model\MatriculaModel.class
